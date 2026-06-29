@@ -4,14 +4,6 @@ A full-featured mobile e-commerce app built with **React Native + Expo**, inspir
 
 ---
 
-## Screenshots
-
-| Splash | Onboarding | Home |
-|--------|------------|------|
-| ![Splash](assets/images/splash.png) | *(Onboarding slides)* | *(Home screen)* |
-
----
-
 ## Features Built So Far
 
 ### Splash Screen
